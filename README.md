@@ -1,5 +1,6 @@
 # My First Coding Assignment #
-![otter eating clam](https://stockcake.com/i/otter-enjoying-meal_769251_801513 "Image")
+Inline-style:
+![otter eating clam] (https://stockcake.com/i/otter-enjoying-meal_769251_801513 "Image")
 ## About Me ##
 I'm 27 years old from Miami, FL. I work for the City of Coral Gables, FL -- just outside of Miami -- as a Digital Media Coordinator. In my spare time, I like to workout, play golf and pickleball, cook at home, and spend time with my wife and family and friends.
 ## Past Coding Experience ##
